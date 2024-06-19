@@ -1,0 +1,8 @@
+the whole point of this project is to get used dictionary
+
+-- contact book --
+1. add contact 
+2. search contact
+3. update a contact
+4. delete a contact
+5. display contacts

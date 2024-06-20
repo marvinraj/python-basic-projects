@@ -1,0 +1,10 @@
+what to do?
+
+-- inventory management --
+1. create an item (name, quantity, price)
+2. add item into inventory
+3. purchase item and update inventory
+4. return item and update inventory
+5. search for item
+6. delete item no longer sold
+7. return total number of stocks
